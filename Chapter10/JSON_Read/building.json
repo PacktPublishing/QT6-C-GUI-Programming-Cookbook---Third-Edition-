@@ -1,0 +1,23 @@
+[
+	{
+		"name": "Library",
+		"tag": "building",
+		"position": [120.0, 0.0, 50.68],
+		"rotation": [0.0, 0.0, 0.0],
+		"scale": [1.0, 1.0, 1.0]
+	},
+	{
+		"name": "Town Hall",
+		"tag": "building",
+		"position": [80.2, 0.0, 20.5],
+		"rotation": [0.0, 0.0, 0.0],
+		"scale": [1.0, 1.0, 1.0]
+	},
+	{
+		"name": "Tree",
+		"tag": "prop",
+		"position": [10.46, -0.2, 80.2],
+		"rotation": [0.0, 0.0, 0.0],
+		"scale": [1.0, 1.0, 1.0]
+	}
+]

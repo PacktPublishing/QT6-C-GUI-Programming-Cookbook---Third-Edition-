@@ -1,0 +1,16 @@
+[
+    {
+        "address": "114B, 2nd Floor, Sterling Apartment, Morrison Town",
+        "age": 32,
+        "category": "Friend",
+        "name": "John Doe",
+        "phone": "0221743566"
+    },
+    {
+        "address": "13, Ave Park, Alexandria",
+        "age": 24,
+        "category": "Family",
+        "name": "Jane Smith",
+        "phone": "0025728396"
+    }
+]
